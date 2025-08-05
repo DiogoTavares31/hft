@@ -1,4 +1,4 @@
-#include "C:\Users\diogo\Desktop\Personal\Code\hft\include\technical_indicators.h"
+#include "technical_indicators.h"
 #include <cmath>
 
 TechnicalIndicators::TechnicalIndicators(size_t window_size) : max_size(window_size) {

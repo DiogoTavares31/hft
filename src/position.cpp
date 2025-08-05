@@ -1,4 +1,4 @@
-#include "C:\Users\diogo\Desktop\Personal\Code\hft\include\position.h"
+#include "position.h"
 #include <cmath>
 #include <algorithm>
 

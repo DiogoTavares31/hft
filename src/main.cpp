@@ -1,5 +1,5 @@
-#include "C:\Users\diogo\Desktop\Personal\Code\hft\include\trading_engine.h"
-#include "C:\Users\diogo\Desktop\Personal\Code\hft\include\live_data_feed.h"
+#include "trading_engine.h"
+#include "live_data_feed.h"
 #include <iostream>
 #include <vector>
 #include <string>

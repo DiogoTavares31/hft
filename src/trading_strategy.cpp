@@ -1,4 +1,4 @@
-#include "C:\Users\diogo\Desktop\Personal\Code\hft\include\trading_strategy.h"
+#include "trading_strategy.h"
 #include <cmath>
 
 TradingStrategy::TradingStrategy() : last_signal_price(0), in_position(false) {

@@ -1,4 +1,4 @@
-#include "C:\Users\diogo\Desktop\Personal\Code\hft\include\live_data_feed.h"
+#include "live_data_feed.h"
 #include <iostream>
 #include <sstream>
 #include <random>
