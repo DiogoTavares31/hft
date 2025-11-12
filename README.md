@@ -1,6 +1,6 @@
 # C++ Trading Bot 📈
 
-A simple algorithmic trading simulation built in C++ for fun and learning. This project was completely **vibe coded**.
+A simple algorithmic trading simulation built in C++ for fun and learning.
 
 ## ⚠️ Disclaimer
 
